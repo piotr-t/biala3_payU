@@ -15,6 +15,7 @@
     - master
     - withJSDoc
     - withTests
+    - testAppLayout
 
 ## .env
 ```env
